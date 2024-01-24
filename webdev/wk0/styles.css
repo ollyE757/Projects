@@ -1,0 +1,196 @@
+#search {
+    text-align: center;
+    position: absolute;
+    height: 300px;
+    width: 500px;
+    padding: 10px 10px;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+}
+
+
+#user-input {
+        border-radius: 20px;
+        padding: 5px 10px;                    
+}
+
+#submit-btn {
+    border-radius: 20px;
+    position: absolute;
+    top: 60%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+}
+
+#img-submit-btn {
+    border-radius: 20px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#feeling-lucky-btn {
+    border-radius: 20px;
+    position: absolute;
+    top: 60%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+}
+
+#all-these-words {
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+#links {
+    padding: 10px;
+    width: 120px;
+    position: relative;
+    float: right;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.link-btn {
+    width: 120px;
+    height: 20px;
+    text-align: center;
+    background: red;
+    padding: 2px 0px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.link-btn > a {
+    color: white;
+    text-decoration: none;
+    font: arial;   
+}
+
+
+
+#adv-sch {
+    position: relative;
+    float: left;
+    width: 600px;
+    height: 500px;
+    text-align: center;
+}
+
+.all-these-words {
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.all-these-words > p {
+    height: 18px;
+    width: 200px;
+    padding: 7px 5px;
+    position: absolute;
+    top: 100px;
+    left: 10px;
+}
+
+.all-these-words > input {
+    height: 18px;
+    width: 200px;
+    padding: 0px 0px;
+    position: absolute;
+    top: 100px;
+    left: 250px;
+    transform: translate(0, 100%);
+}
+
+
+.this-exact-word {
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.this-exact-word > p {
+    height: 18px;
+    width: 200px;
+    padding: 7px 5px;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+}
+
+.this-exact-word > input {
+    height: 18px;
+    width: 200px;
+    padding: 0px 0px;
+    position: absolute;
+    top: 150px;
+    left: 250px;
+    transform: translate(0, 100%);
+}
+
+
+
+
+.any-of-these-words {
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.any-of-these-words > p {
+    height: 18px;
+    width: 200px;
+    padding: 7px 5px;
+    position: absolute;
+    top: 200px;
+    left: 10px;
+}
+
+.any-of-these-words > input {
+    height: 18px;
+    width: 200px;
+    padding: 0px 0px;
+    position: absolute;
+    top: 200px;
+    left: 250px;
+    transform: translate(0, 100%);
+}
+
+
+
+
+.none-of-these-words {
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.none-of-these-words > p {
+    height: 18px;
+    width: 200px;
+    padding: 7px 5px;
+    position: absolute;
+    top: 250px;
+    left: 10px;
+}
+
+.none-of-these-words > input {
+    height: 18px;
+    width: 200px;
+    padding: 0px 0px;
+    position: absolute;
+    top: 250px;
+    left: 250px;
+    transform: translate(0, 100%);
+}
+
+#adv-sch-btn {
+    top: 320px;
+    padding: 2px 2px;
+    width: 150px;
+    position: absolute;
+}
